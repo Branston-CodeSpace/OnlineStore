@@ -212,7 +212,7 @@ input[type="submit"] {
 /*-- logo --*/
 
 .logo_agile h1 a {
-    color: #F45C5D;
+    color: rgb(0, 0, 0);
     font-size: 38px;
     text-decoration: none;
     letter-spacing: 1px;
