@@ -168,20 +168,6 @@ input[type="submit"] {
     -ms-transition: 0.5s all;
 }
 
-/*-- location --*/
-
-.list_of_cities {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid rgba(47, 47, 47, 0.44);
-    color: #4d4d4d;
-    font-size: 14px;
-    font-family: 'Open Sans', sans-serif;
-    letter-spacing: 1px;
-}
-
-/*-- //location --*/
-
 /*-- //header Lists --*/
 
 /*-- //top-header --*/
